@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulMo007
-- 👀 I’m interested in Automation. 
-- 🌱 I’m currently learning DSA, CCNA, Network Automation, Linux, Python. 
-- 💞️ I’m looking to collaborate on Webdev, Network Automation, Data Science.
+- 👀 I’m interested in Automation, System Administration, Development. 
+- 🌱 I’m currently learning DSA, CCNA, Automation, Linux, Python. 
+- 💞️ I’m looking to collaborate on Webdev, Automation, .
 - 📫 How to reach me? muqtadirh29@gmail.com
 
 <!---
